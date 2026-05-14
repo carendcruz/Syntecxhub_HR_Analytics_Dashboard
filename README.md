@@ -43,11 +43,6 @@ The dashboard was created to help organizations make data-driven HR decisions by
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Dashboard Preview](dashboard.png)
-
----
 
 ## 📂 Dataset Information
 The dataset includes employee-related information such as:
